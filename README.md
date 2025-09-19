@@ -66,7 +66,7 @@ python acu-frend.py targets.txt -o results/acunetix_targets.csv -p "Full Scan" -
 
 ## Opsi CLI (Lengkap)
 ```
-USAGE: python acu_frend.py INPUT_FILE [options]
+USAGE: python acu-frend.py INPUT_FILE [options]
 
 Positional:
   INPUT_FILE            Jalur ke file targets.txt
@@ -89,19 +89,19 @@ Options:
 1. Proses file list standar, gunakan profil `Full Scan` dan grup `Engagement-2025`:
 
 ```bash
-python acu_frend.py targets.txt -o output/engagement-2025.csv -p "Full Scan" -c High -g "Engagement-2025"
+python acu-frend.py targets.txt -o output/engagement-2025.csv -p "Full Scan" -c High -g "Engagement-2025"
 ```
 
 2. Satu target langsung dari CLI:
 
 ```bash
-python acu_frend.py -u https://example.com -o output/example.csv -p "Quick Scan" -c Medium
+python acu-frend.py -u https://example.com -o output/example.csv -p "Quick Scan" -c Medium
 ```
 
 3. Batch dari folder (semua file `.txt` diproses):
 
 ```bash
-python acu_frend.py -d ./targets/ -l
+python acu-frend.py -d ./targets/ -l
 ```
 
 ---
