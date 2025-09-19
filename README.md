@@ -13,16 +13,13 @@ Acu‑Frend 1.0 mengubah tugas berulang: *menyusun daftar target untuk Acunetix*
 
 ---
 
-## Tampilan Visual (Badge & Branding)
-Semua badge ini dapat langsung ditempelkan ke GitHub README untuk tampilan profesional tanpa emoji:
 
-```markdown
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Build-Ready-brightgreen.svg)
 ![Security](https://img.shields.io/badge/Focus-Bug%20Hunting-critical.svg)
-```
+
 
 ---
 
