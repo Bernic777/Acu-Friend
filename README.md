@@ -22,13 +22,6 @@ Acu‑Frend 1.0 mengubah tugas berulang: *menyusun daftar target untuk Acunetix*
 
 
 ---
-
-## Mengapa Acu‑Frend? (Kenapa tidak skip)
-- **Langsung ke inti:** Tidak ada setup rumit — jalankan script, dapatkan CSV.  
-- **Terstruktur untuk tim:** Nama file hasil otomatis memudahkan pelacakan (sumber → hasil).  
-- **Aman dan jelas:** Validasi URL mencegah sampah masuk ke pipeline pemindaian.  
-- **Dapat disambungkan ke workflow:** Mudah dipasangkan ke CI/CD, reporting, dan tools bug-bounty.
-
 ---
 
 ## Fitur Kunci
