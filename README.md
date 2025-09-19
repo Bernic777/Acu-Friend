@@ -160,14 +160,4 @@ Kontribusi sangat dihargai. Alur singkat:
 
 ---
 
-## Lisensi
-MIT License — bebas digunakan, dimodifikasi, dan didistribusikan.
-
----
-
-## Kontak
-Jika ingin berdiskusi fitur, laporan bug, atau kerja sama: buka issue di GitHub atau buat PR langsung.
-
----
-
 > _Acu‑Frend 1.0 — buat persiapan scanning jadi cepat, rapi, dan dapat dipercaya._
