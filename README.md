@@ -1,3 +1,4 @@
+![Banner](img/Acu-Friend.png)
 # Acu-Frend 1.0
 
 ## Deskripsi
